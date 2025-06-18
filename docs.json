@@ -72,7 +72,12 @@
           "anchor": "Blog",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
-        }
+        },
+        {
+          "anchor": "Thumbs Down",
+          "href": "https://google.com/",
+          "icon": "thumbs-down"
+        },
       ]
     }
   },
