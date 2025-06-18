@@ -56,24 +56,6 @@
         ]
       }
     ],
-    "dropdowns": [{
-          "dropdown": "Documentation",
-          "icon": "book-open",
-          "pages": [
-            "quickstart",
-            "development",
-            "navigation"
-          ]
-        },
-        {
-          "dropdown": "API References",
-          "icon": "square-terminal",
-          "pages": [
-            "api-reference/get",
-            "api-reference/post",
-            "api-reference/delete"
-          ]
-        }],
     "global": {
       "anchors": [
         {
